@@ -9,7 +9,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
 <br>
-• I am undergraduate of Information Technology Department, Flutter developer, I am looking for more experience team to learn from develop new efficient skills and make new projects along the away.
+I am undergraduate of Information Technology Department, Flutter developer, I am looking for more experience team to learn from develop new efficient skills and make new projects along the away.
 <br>
 ------------ 
 <br>
