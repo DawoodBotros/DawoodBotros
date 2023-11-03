@@ -2,8 +2,13 @@
  <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dawood+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
   </p>
+
+
+
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+
 - 🔭 I’m currently working on **Mobile App Development.**
 
 - 🌱 I’m currently learning **Flutter Framework**
