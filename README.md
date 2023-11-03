@@ -8,6 +8,9 @@
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
+<br>
+• I am undergraduate of Information Technology Department, Flutter developer, I am looking for more experience team to learn from develop new efficient skills and make new projects along the away.
+<br
 
 - 🔭 I’m currently working on **Mobile App Development.**
 
