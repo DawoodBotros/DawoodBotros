@@ -1,3 +1,7 @@
+ <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dawood+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
+  </p>
+
 <h1 align="center">Hi 👋, I'm Dawood Botros</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
