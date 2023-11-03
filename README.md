@@ -13,11 +13,11 @@
 <br>
 ------------ 
 <br>
-- 🔭 I’m currently working on **Mobile App Development.**
+- 🔭 I’m currently working on Mobile App Development.
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning Flutter Framework
 
-- 📫 How to reach me **dawoodbotros236@gmail.com**
+- 📫 How to reach me dawoodbotros236@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
